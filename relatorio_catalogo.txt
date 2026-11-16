@@ -1,0 +1,29 @@
+====================================================================
+           RELATORIO ANALITICO DO CATALOGO DE LIVROS (JAVA)         
+Gerado em: 16/11/2026 12:05:33
+====================================================================
+
+1. ESTATISTICAS GERAIS DO ACERVO
+--------------------------------------------------------------------
+Total de livros catalogados : 6
+Valor total do acervo (reduce): R$ 752,30
+Media de precos               : R$ 125,38
+Livro mais caro               : [978-8573076103] 'Padroes de Projetos' - Erich Gamma et al. | Categoria: Arquitetura de Software | Ano: 2000 | R$ 165,00
+Livro menos caro              : [978-8575225639] 'Estruturas de Dados e Algoritmos com JavaScript' - Loiane Groner | Categoria: Algoritmos | Ano: 2019 | R$ 89,00
+
+2. DISTRIBUICAO DE LIVROS POR CATEGORIA
+--------------------------------------------------------------------
+- Algoritmos            : 1 livro(s)
+- Arquitetura de Software: 2 livro(s)
+- Engenharia de Software: 2 livro(s)
+- Linguagens de Programacao: 1 livro(s)
+
+3. LISTAGEM COMPLETA ORDENADA POR TITULO
+--------------------------------------------------------------------
+[978-8550800653] 'Arquitetura Limpa' - Robert C. Martin | Categoria: Arquitetura de Software | Ano: 2019 | R$ 98,50
+[978-8576082675] 'Codigo Limpo' - Robert C. Martin | Categoria: Engenharia de Software | Ano: 2009 | R$ 115,90
+[978-8575225639] 'Estruturas de Dados e Algoritmos com JavaScript' - Loiane Groner | Categoria: Algoritmos | Ano: 2019 | R$ 89,00
+[978-8550804620] 'Java Efetivo' - Joshua Bloch | Categoria: Linguagens de Programacao | Ano: 2019 | R$ 149,90
+[978-8573076103] 'Padroes de Projetos' - Erich Gamma et al. | Categoria: Arquitetura de Software | Ano: 2000 | R$ 165,00
+[978-8576089629] 'Refatoracao' - Martin Fowler | Categoria: Engenharia de Software | Ano: 2020 | R$ 134,00
+====================================================================
